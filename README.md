@@ -1,2 +1,3 @@
-# Contact-Bot-Wechaty
+# wechaty-contact-bot
+
 Created with CodeSandbox
